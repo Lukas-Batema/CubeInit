@@ -9,7 +9,7 @@ body {
 
 #left {
   background-color: blue;
-  width: 25%;
+  width: 20%;
 }
 
 #right {
@@ -18,8 +18,10 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-  #left, #right {
-    width: 100%;
+  #column {
+    #left, #right {
+      width: 100%;
+    }
   }
 }
 /* 2-column layout (end) */
