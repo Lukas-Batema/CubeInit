@@ -18,10 +18,8 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-  #column {
-    #left, #right {
-      width: 100%;
-    }
+  #column #left, #column #right {
+    width: 100%;
   }
 }
 /* 2-column layout (end) */
