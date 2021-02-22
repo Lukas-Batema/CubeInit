@@ -2,22 +2,24 @@ body {
   background-color: white;
 }
 
+/* 2-column layout (start) */
 #column {
   float: left;
 }
 
-#column#left {
+#left {
   background-color: blue;
   width: 25%;
 }
 
-#column#right {
+#right {
   background-color: red;
   width: 70%;
 }
 
 @media screen and (max-width: 600px) {
-  #column#left, #column#right {
+  #left, #right {
     width: 100%;
   }
 }
+/* 2-column layout (end) */
