@@ -3,5 +3,9 @@
     "activityBar.background": "#630100",
     "titleBar.activeBackground": "#8B0200",
     "titleBar.activeForeground": "#FFFBFB"
-  }
+  },
+  "cSpell.words": [
+    "dropbtn",
+    "topnav"
+  ]
 }
