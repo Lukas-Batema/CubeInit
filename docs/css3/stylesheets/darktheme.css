@@ -11,12 +11,12 @@ body {
 #left {
   background-color: blue;
   float: left;
-  width: 20%;
+  width: 150px;
 }
 
 #right {
   background-color: red;
   float: left;
-  width: 70%;
+  width: 600px;
 }
 /* 2-column layout (end) */
