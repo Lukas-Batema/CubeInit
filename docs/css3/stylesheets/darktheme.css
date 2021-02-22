@@ -6,18 +6,18 @@ body {
   float: left;
 }
 
-#column #left {
+#column#left {
   background-color: blue;
   width: 25%;
 }
 
-#column #right {
+#column#right {
   background-color: red;
   width: 70%;
 }
 
 @media screen and (max-width: 600px) {
-  #column #left, #column #right {
+  #column#left, #column#right {
     width: 100%;
   }
 }
