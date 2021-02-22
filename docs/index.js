@@ -6,14 +6,14 @@ function welcomeToSite() {
 }
 
 function chooseTheme() {
-  var currentTheme = "rel=\n"stylesheet\n" type=\n"type/css\n" href=\n" \n"";
+  var currentTheme = "rel=\"stylesheet\" type=\"type/css\" href=\" \"";
   
   // Avaliable Themes
   var darkTheme = "dark";
   var lightTheme = "light";
   
   // Prompt for the user to choose a theme
-  var askTheme = prompt("Type either, \n"light\n" for the light theme, or \n"dark\n" for the dark theme!");
+  var askTheme = prompt("Type either, \"light\" for the light theme, or \"dark\" for the dark theme!");
   
   document.getElementById("theme").innerText += currentTheme;
 }
