@@ -5,7 +5,7 @@ body {
 /* 2-column layout (start) */
 #column {
   float: left;
-  width: 100%;
+  width: 800px;
 }
 
 #left {
