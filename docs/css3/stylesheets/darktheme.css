@@ -88,7 +88,7 @@ li a:hover:not(#active), #dropdown:hover:not(#active) #dropbtn {
 }
 
 #topnav #active {
-  color: rgb(37, 37, 37);
-  background-color: rgb(99, 97, 99);
+  color: rgb(99, 99, 99);
+  background-color: rgb(37, 37, 37);
 }
 /* 2-column layout (end) */
