@@ -13,6 +13,8 @@ docs/css3/*/*.css linguist-detectable
 docs/css3/*/*/*.css linguist-detectable
 docs/css3/*/*/*/*.css linguist-detectable
 docs/css3/*/*/*/*/*.css linguist-detectable
+/.github/*.yml linguist-detectable
+/.github/workflows/*.yml linguist-detectable
 /*.md linguist-detectable
 docs/*.html -linguist-documentation
 docs/html5/*/*.html -linguist-documentation
@@ -29,4 +31,6 @@ docs/css3/*/*.css -linguist-documentation
 docs/css3/*/*/*.css -linguist-documentation
 docs/css3/*/*/*/*.css -linguist-documentation
 docs/css3/*/*/*/*/*.css -linguist-documentation
+/.github/*.yml -linguist-documentation
+/.github/workflows/*.yml -linguist-documentation
 /*.md -linguist-documentation
