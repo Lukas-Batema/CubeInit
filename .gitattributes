@@ -1,3 +1,4 @@
+# linguist-detectable
 docs/*.html linguist-detectable
 docs/html5/*/*.html linguist-detectable
 docs/html5/*/*/*.html linguist-detectable
@@ -16,6 +17,8 @@ docs/css3/*/*/*/*/*.css linguist-detectable
 /.github/*.yml linguist-detectable
 /.github/workflows/*.yml linguist-detectable
 /*.md linguist-detectable
+
+# -linguist-documentation
 docs/*.html -linguist-documentation
 docs/html5/*/*.html -linguist-documentation
 docs/html5/*/*/*.html -linguist-documentation
